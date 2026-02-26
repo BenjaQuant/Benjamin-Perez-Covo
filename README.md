@@ -61,9 +61,6 @@ Designed and implemented class structures based on UML diagrams using advanced d
 
 ## Contact
 
-📧 Email: tuemail@correo.com  
-🔗 LinkedIn: https://linkedin.com/in/tuusuario  
+📧 Email: benjaminperezcovo@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/benjamin-perez-covo-ab39622a6/
 
----
-
-> “Strong analytical thinking combined with structured problem solving.”
